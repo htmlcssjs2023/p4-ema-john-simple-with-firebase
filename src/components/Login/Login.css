@@ -59,7 +59,7 @@ a{
     padding: 0 10px;
     font-size: 1.4rem;
 }
-.form button[type="button"]{
+.form input[type="submit"]{
     border-radius: 5px;
     background: rgba(255, 153, 0, 0.30);
     color: #0E161A;
@@ -67,6 +67,7 @@ a{
     font-weight: 400;
     margin-top: 24px;
     width: 100%;
+    cursor: pointer;
 }
 .form .link-button{
     text-align: center;
